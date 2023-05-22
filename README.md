@@ -366,23 +366,23 @@ r*ead/record_highest_score_n()*：读取和记录最高分
 
 ### 5.1 图标展示
 
-![icon](.\Images\icon.png) 
+![icon](/Images/icon.png) 
 
 ### 5.2 开始界面
 
-![start](.\Images\start.png) 
+![start](/Images/start.png) 
 
 ### 5.3 游戏界面(Easy为例)
 
-![Easy](.\Images\Easy.png) 
+![Easy](/Images/Easy.png) 
 
 ### 5.4 分数记录
 
-![score](.\Images\score.png) 
+![score](/Images/score.png) 
 
 ### 5.5 开发人员展示
 
-![about](.\Images\about.png) 
+![about](/Images/about.png) 
 
 ## 6 较好的设计部分
 
