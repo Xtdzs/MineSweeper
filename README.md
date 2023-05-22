@@ -1,2 +1,0 @@
-# MineSweeper
-Produced by Gao
